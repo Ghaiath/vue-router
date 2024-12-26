@@ -1,7 +1,9 @@
 <template>
-  <div>
-    <router-link to="/">Home</router-link>
-    <router-link to="/about">About</router-link>
-    <router-view />
-  </div>
+
+  <h1>Vue Router</h1>
+
 </template>
+
+<script setup>
+
+</script>

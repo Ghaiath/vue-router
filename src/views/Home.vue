@@ -1,5 +1,0 @@
-<!-- Home.vue -->
-<template>
-  <h1>Welcome to the Home Page</h1>
-</template>
-<script setup></script>
